@@ -4,7 +4,7 @@ import Styled from 'styled-components'
 const MovieList = () => {
     return (
         <MovieListFramework>
-
+            This is the movie list
         </MovieListFramework>
     )
 }
@@ -16,6 +16,5 @@ const MovieListFramework = Styled.div `
     max-width: 1280px;
     margin: 0px auto;
     padding: 0 15px;
-
 `
 

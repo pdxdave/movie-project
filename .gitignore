@@ -13,7 +13,7 @@
 
 
 # helpers
-/helpers
+/src/helpers
 
 # misc
 .env

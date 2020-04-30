@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import {Router} from 'react-router-dom'
+import {BrowserRouter as Router} from 'react-router-dom'
 
 
 import Header from './components/Header'
@@ -12,7 +12,8 @@ function App() {
         <Header />
           <Router>
             <HomePage />
-          </Router>
+          </Router> 
+        
     </React.Fragment>
   );
 }
