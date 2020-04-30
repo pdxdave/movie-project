@@ -5,5 +5,5 @@ With respect to arrangement of components, the Homepage will be all encompasing.
 1. Banner
 2. Logo
 3. SearchBar
-4. MovieGrid
+4. MovieList
 5. More Moves Button
