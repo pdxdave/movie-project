@@ -1,6 +1,6 @@
 ![](home_wireframe.png)
 
-With respect to arrangement of components, the Homepage will be all encomapsing.  It will contain everything you see here.  
+With respect to arrangement of components, the Homepage will be all encompasing.  It will contain everything you see here.  
 
 1. Banner
 2. Logo
